@@ -17,4 +17,6 @@ De jesus
 <i class="fa fa-camera-retro fa-lg">
  <div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>This is a special warning message.
 
-{% include links.html %}
+
+  
+  {% include links.html %}
