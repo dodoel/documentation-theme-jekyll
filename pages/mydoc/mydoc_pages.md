@@ -11,7 +11,7 @@ folder: mydoc
 
 ## Where to author content
 De jesus
-
+{% include warning.html content="Add your warning here." %}
 ## Where to save pages
 
 You can store your pages in any folder structures you want, with any level of folder nesting. The site output will pull all of those pages out of their folders and put them into the root directory. Check out the \_site folder, which is where Jekyll is generated, to see the difference between your project's structure and the resulting site output.
